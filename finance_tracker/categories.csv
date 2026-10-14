@@ -1,0 +1,53 @@
+Keyword,Category
+payroll,Income
+direct dep,Income
+salary,Income
+interest paid,Income
+refund,Refunds
+rent,Housing
+mortgage,Housing
+pg&e,Utilities
+electric,Utilities
+water,Utilities
+comcast,Utilities
+verizon,Phone & Internet
+t-mobile,Phone & Internet
+at&t,Phone & Internet
+whole foods,Groceries
+trader joe,Groceries
+safeway,Groceries
+costco,Groceries
+kroger,Groceries
+starbucks,Dining
+doordash,Dining
+uber eats,Dining
+restaurant,Dining
+cafe,Dining
+uber,Transport
+lyft,Transport
+shell,Transport
+chevron,Transport
+parking,Transport
+airline,Travel
+airbnb,Travel
+hotel,Travel
+united,Travel
+delta,Travel
+amazon,Shopping
+target,Shopping
+netflix,Subscriptions
+spotify,Subscriptions
+apple.com,Subscriptions
+google,Subscriptions
+gym,Health
+pharmacy,Health
+cvs,Health
+walgreens,Health
+insurance,Insurance
+payment thank you,Card Payment
+autopay,Card Payment
+transfer,Transfers
+zelle,Transfers
+venmo,Transfers
+atm,Cash
+fee,Fees

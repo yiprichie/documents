@@ -11,3 +11,5 @@ Marketing Manager = the main Claude session. It delegates to three bots (defined
 Flow: Joe -> picks -> John + Jack -> Manager review -> owner update.
 Reports land in `marketing/reports/`. Fill in `marketing/BRAND.md` first.
 Nothing is published automatically; all output is drafts for the owner.
+
+Poster style for John: `POSTER_STYLE.md` (reference image in `assets/`).

@@ -91,6 +91,13 @@ Keep it skimmable.
 ## Extra scope (Richard's request): what is happening in Japan, including viral content
 After the main feed, add a short section **日本熱話** with up to 5 items on what is trending in Japan and in Japan-travel social media: viral videos and trends (TikTok, Instagram, Threads, X, YouTube, Yahoo! Realtime 搜尋 バズまとめ), tourist-behaviour controversies, rule changes, big crowds, big events. For each: what it is, platform, date, why it matters to travellers, a suggested angle for Richard's posts, and the link. You cannot watch videos or see live view counts: never quote views or likes unless the page you read states them, and say when a trend is only reported secondhand. Skip politically sensitive or unverifiable claims, and note when you skipped one.
 
+## Method notes from the 2 Nov 2026 run (a previous bot, plain fetch + search, no special access, about 30 tool calls)
+- Two-step fetching: first fetch each source's list page and ask for "newest items with dates, titles and URLs"; then fetch each article you will use on its own and ask for exact facts (dates, hours, yen prices, booking window, travel period, access, sponsored or not). Run fetches in parallel batches of about 6.
+- Sources that worked then: GO TOKYO monthly guide (no prices), MATCHA /tw/news, 日本零時差, 巡日旅行攝, TRAVEL VOICE, Crossroad Fukuoka (no prices or hours), Funliday Agoda page (affiliate links; its own rules contradicted each other), Hotel Bank (data dated September), MeetHK, Bank of Taiwan rates.
+- Sources that were weak: KAYAK pages (JavaScript, dates not tied to flights; Fukuoka had only averages), 樂吃購！日本 homepage (no dates or links), Sapporo Travel (no dated 2026 items), Funliday search (tag pages only), 公視 (search returned other outlets). If a page comes back nearly empty or blocked, fall back to a web search for that site, and report the failure rather than guess.
+- Do not use the 2 Nov numbers as today's: the yen rate was 0.2101 NT$ per yen on 2 Nov at 20:42 and is only a sanity check. Always quote today's Bank of Taiwan rate and time.
+- If fetches fail with a DNS error (getaddrinfo ENOTFOUND), the environment's network policy is blocking the host: stop, say which hosts, and do not substitute search snippets for pages.
+
 ## Delivery
 1. Return the full feed as one message (and save it to the reports file).
 2. The manager sends the phone notification: first sentence is today's #1 reel title and topic, then 2-3 key deadlines. Put these in a final "通知文字" line to make that easy.

@@ -24,3 +24,9 @@ No specific viral Japan travel video could be confirmed. Search cannot see view 
 - Events with dates seen in TikTok/creator posts: Asakusa Culture & Lights projection, 10/30-11/3; Showa Kinen Park autumn leaves, 10/29-11/29. Meiji Jingu Gaien ginkgo festival usually mid-Nov to early Dec (annual pattern, this year's dates unconfirmed).
 - Japan-side social buzz (Yahoo! Realtime, 11/1-11/3): Tokyo DisneySea ticket resales, dense fog across Japan on 11/3, people stacking holidays into 4-day weekends. Little is travel-specific.
 - Ignored: a sensational Bilibili video making war/casualty claims (unverifiable).
+
+## Addendum 2: visitor numbers (JNTO provisional, Sept 2026, released 10/21; via search summaries of TRAVEL VOICE / honichi / Aviation Wire, UNVERIFIED against jnto.go.jp)
+- Total 3,103,700 (-5.0%, second straight yearly decline); Jan-Sep cumulative 30.73 million (-2.9%).
+- Korea 842,300 (+25.6%); Taiwan 595,600 (+13.0%); China 430,800 (-44.5%, 10th straight monthly decline); Hong Kong 145,000 (-3.0%).
+- Context seen in search: Jan-Jun Taiwan +20.9% to 3,972,200 (2nd largest market); Q1 Taiwan spending about 388.4 billion yen, top of all markets; August China -59%. JNTO cited typhoon cancellations and Middle East-driven fare rises for weak markets.
+- Not supported: any claim of fewer crowds or cheaper prices.

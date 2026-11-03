@@ -13,4 +13,6 @@
 - Themes: (1) Travel, (2) Studying at 40 for a career change, (3) Startup journey
 - Style: first-person storytelling about struggle and pursuit; honest, no hype
 - Handled by: Jack (scripts + `marketing/CONTENT_CALENDAR.md`)
-- Language of these scripts: to confirm (English by default for now)
+- Language of these scripts: English (confirmed by Richard)
+- On camera: Richard is OK appearing on camera (confirmed)
+- Topic examples from Richard (friend asking if travel is worth it; Gen Z at 40; a startup interview) are EXAMPLES of topic style, not confirmed real events. Scripts keep [RICHARD: ...] slots until he confirms each is real.

@@ -229,7 +229,7 @@ Examples:
 
 ## 9. One Breath Monologue
 
-- **When to use:** a fresh, same-day, emotional thing (like the interview day) where energy matters more than polish. Spontaneous and funny or raw.
+- **When to use:** a fresh, same-day, emotional thing that really happened (a real startup moment, a trip, a class) where energy matters more than polish. Spontaneous and funny or raw.
 - **Emotional effect:** urgency, intimacy, "he's telling me right now". Breathless, then a sudden stop.
 - **Format:** DIRECT-TO-CAMERA, one handheld take, NO cuts. Walking or pacing. Fast.
 - **Length:** 28-30s. 8 short lines, about 3.5s each, no pauses between them.
@@ -238,7 +238,7 @@ Examples:
 | # | Time | Beat | Fill-in line pattern |
 |---|------|------|----------------------|
 | 1 | 0-3s | Mid-motion open | "Okay, so [what just happened]." |
-| 2 | 3-7s | The odd detail | "And the funny/strange thing is [detail]." |
+| 2 | 3-7s | The odd detail | "And the surprising thing is [RICHARD: a real detail]." |
 | 3 | 7-10s | What I expected | "I walked in thinking [expectation]." |
 | 4 | 10-14s | The fear | "Honestly, I was scared of [fear]." |
 | 5 | 14-17s | The swerve | "And then [what happened]." |
@@ -249,7 +249,7 @@ Examples:
 Examples:
 - **Travel:** "Okay, so I just got back from [RICHARD: place / moment]..." and slots.
 - **Studying at 40:** "Okay, so I just left class and [RICHARD: what happened]..."
-- **Startup:** "Okay, so today I [RICHARD: what happened in the startup]..."
+- **Startup:** "Okay, so today I [RICHARD: a real startup moment]..." (an example of style only; use only something that really happened)
 
 ---
 

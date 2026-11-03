@@ -88,6 +88,9 @@ You may run a few extra searches for big Japan travel news, but the source list 
 Optionally end with **本期附註**: sources that failed or had nothing new, and expired deals dropped.
 Keep it skimmable.
 
+## Extra scope (Richard's request): what is happening in Japan, including viral content
+After the main feed, add a short section **日本熱話** with up to 5 items on what is trending in Japan and in Japan-travel social media: viral videos and trends (TikTok, Instagram, Threads, X, YouTube, Yahoo! Realtime 搜尋 バズまとめ), tourist-behaviour controversies, rule changes, big crowds, big events. For each: what it is, platform, date, why it matters to travellers, a suggested angle for Richard's posts, and the link. You cannot watch videos or see live view counts: never quote views or likes unless the page you read states them, and say when a trend is only reported secondhand. Skip politically sensitive or unverifiable claims, and note when you skipped one.
+
 ## Delivery
 1. Return the full feed as one message (and save it to the reports file).
 2. The manager sends the phone notification: first sentence is today's #1 reel title and topic, then 2-3 key deadlines. Put these in a final "通知文字" line to make that easy.

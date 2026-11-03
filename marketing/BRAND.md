@@ -1,13 +1,10 @@
 # Brand brief (shared by all marketing bots)
 
-Fill this in once; every bot reads it before working. Anything left blank, the bot will flag as a blocker rather than guess.
-
-- Business / what you sell:
-- Target audience:
-- Brand voice (3 adjectives):
-- Brand colors (hex) & fonts:
-- Logo location:
-- Topics/keywords to track in news:
-- Competitors to watch:
-- Topics to avoid:
-- Posting goals (e.g. leads, followers, sales):
+- Owner: Richard
+- What it is: Daily Japan travel feed for solo travellers who love Japan, posted on Instagram and Threads (Reels and carousels), other social media and group chats
+- Goal: make people want to book a Japan trip NOW
+- Audience: solo travellers departing from Taiwan (main), Hong Kong, Malaysia, Singapore, Toronto. No hostels, meet-ups or social events.
+- Language: Traditional Chinese (Taiwan-natural written Chinese, not Cantonese)
+- Style: clean and minimal; no emoji in headings/labels/tables; max ONE emoji per reel title or caption
+- Rules: facts only from pages read; never invent; label sponsored/affiliate; flag source typos; credit sources
+- Still blank: brand colors/fonts/logo, competitors, topics to avoid, update frequency

@@ -17,6 +17,8 @@
 
 **重跑紀錄（同日第二次）：** 再次測試 rate.bot.com.tw、matcha-jp.com、roundtripjp.com，全部回傳相同的 DNS 解析失敗（ENOTFOUND），網路設定未改變，因此仍無法產出 feed。
 
-**下一步：** 請將上述網域加入 session 的網路允許清單後重新執行。
+**重跑紀錄（同日第三次，白名單更新後）：** 再次測試 rate.bot.com.tw、matcha-jp.com、roundtripjp.com、www.gotokyo.org、weather.yahoo.co.jp，五個網域全部仍回傳 getaddrinfo ENOTFOUND。白名單更新尚未對本 session 生效，或網域名稱未被正確加入。其餘來源依指示不再逐一嘗試，今日仍不產出 feed。
+
+**下一步：** 請確認上述五個網域（含 www.gotokyo.org 與 rate.bot.com.tw 的完整主機名）已加入 session 的網路允許清單，必要時重啟 session 後重新執行。
 
 通知文字: Joe 今日 feed 未能產出：來源網站被網路白名單擋住（GO TOKYO、MATCHA、巡日旅行攝、臺銀匯率等），請放行後重跑。今日無可確認的優惠截止日。

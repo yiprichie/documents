@@ -15,6 +15,8 @@
 
 **前期精選文章：** marketing/reports/ 資料夾目前為空，沒有需要避開的上一期精選文章。
 
+**重跑紀錄（同日第二次）：** 再次測試 rate.bot.com.tw、matcha-jp.com、roundtripjp.com，全部回傳相同的 DNS 解析失敗（ENOTFOUND），網路設定未改變，因此仍無法產出 feed。
+
 **下一步：** 請將上述網域加入 session 的網路允許清單後重新執行。
 
 通知文字: Joe 今日 feed 未能產出：來源網站被網路白名單擋住（GO TOKYO、MATCHA、巡日旅行攝、臺銀匯率等），請放行後重跑。今日無可確認的優惠截止日。

@@ -1,6 +1,6 @@
 # Marketing team
 
-Marketing Manager = the main Claude session. It delegates to three bots (defined in `.claude/agents/`), reviews their work, and gives the owner a single update.
+Marketing Manager = Jay (the main Claude session). It delegates to three bots (defined in `.claude/agents/`), reviews their work, and gives the owner a single update.
 
 | Bot | Role | File | Output |
 |---|---|---|---|

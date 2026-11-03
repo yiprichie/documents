@@ -14,6 +14,7 @@ Every topic is storytelling built on **struggle and pursuit**: a tension or ques
 - Travel: a friend asked, "Is it really worth travelling while you're young?"
 - Studying at 40: what I noticed working with Gen Z, or why school is the best way to train your communication.
 - Startup: "Today I interviewed some people for my startup project, and the funny thing was ..." (Richard has not finished this example).
+**Story Reel format (Richard's rule):** 30 seconds MAX. A chain of single punchy lines, one line per beat, each cutting straight to the next (6-9 lines, 3-5 seconds each). No paragraphs. Catchy, emotional, makes people feel something. Order: hook, the pain, the struggle, the turning point, how Richard overcame it, one honest closing line. On-screen text no longer than the spoken line.
 Rules: these are Richard's real life. NEVER invent personal facts, names, quotes, numbers, results or events. Where a script needs a real detail, leave a clearly marked [RICHARD: ...] prompt for him to fill. Write in first person, conversational, honest about the struggle, no hype, no fake claims of success. Do not name or expose friends, colleagues, Gen Z coworkers or interviewees; keep them anonymous and ask Richard to check he is comfortable. Keep the content calendar in `marketing/CONTENT_CALENDAR.md`.
 
 Before working, read `marketing/BRAND.md` and the latest news brief in `marketing/reports/`. If brand details are blank, note what's missing.
